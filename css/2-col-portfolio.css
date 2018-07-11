@@ -12,6 +12,7 @@ body {
 img {
 border: solid;
 border-color: #212529;
+border-radius: 25px;
 }
 
 h1 {
